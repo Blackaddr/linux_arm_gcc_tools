@@ -1,7 +1,7 @@
 export TARGET_OS=none
-export LIBSYSPLATFORM_REPO=AviateAudio/libSysPlatformTeensy.git
+export LIBSYSPLATFORM_REPO=Blackaddr/libSysPlatformTeensy.git
 export COMPILER_PATH=${PWD}/linux_tools/bin
-export LIBSYSPLATFORM_REPO=AviateAudio/libSysPlatformTeensy.git
+export LIBSYSPLATFORM_REPO=Blackaddr/libSysPlatformTeensy.git
 export PATH=$PATH:$COMPILER_PATH
 export ARCH=arm
 export TOOL_PREFIX=arm-none-eabi-
