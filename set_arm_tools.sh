@@ -1,0 +1,12 @@
+export TARGET_OS=none
+export LIBSYSPLATFORM_REPO=AviateAudio/libSysPlatformTeensy.git
+export COMPILER_PATH=${PWD}/linux_tools/bin
+export LIBSYSPLATFORM_REPO=AviateAudio/libSysPlatformTeensy.git
+export PATH=$PATH:$COMPILER_PATH
+export ARCH=arm
+export TOOL_PREFIX=arm-none-eabi-
+export AVALON_REV=2
+export NO_PRINTF=1
+export MCU_TYPE=TEENSY_MICROMOD
+export OS=linux
+unset BUILD_ENGINE_LOC
